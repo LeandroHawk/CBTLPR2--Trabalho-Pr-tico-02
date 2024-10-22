@@ -1,6 +1,6 @@
 import java.util.UUID;
 
-
+//Leandro Felix Nunes e João Marcos Teles
 public class Aluno
 {
     //Atributos
